@@ -139,4 +139,3 @@ model.fit(
 )
 
 print('Tree count: ' + str(model.tree_count_))
-
